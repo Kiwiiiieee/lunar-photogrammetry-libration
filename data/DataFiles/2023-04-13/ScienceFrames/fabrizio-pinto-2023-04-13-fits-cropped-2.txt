@@ -1,0 +1,17 @@
+SIMPLE  = T                                                                     
+BITPIX  = 16                                                                    
+NAXIS   = 2                                                                     
+NAXIS1  = 2950                                                                  
+NAXIS2  = 2950                                                                  
+BSCALE  = 1                                                                     
+BZERO   = 32768                                                                 
+BYTESWAP= T                                                                     
+DATE-OBS= '2023-04-13T03:10:47'                                                 
+TIME-OBS= '10:50:55'                                                            
+OBJECT  = '        '                                                            
+INSTRUME= '        '                                                            
+EXPOSURE= '        '                                                            
+OBSERVER= '        '                                                            
+COMMENT                                                                       
+COMMENT                                                                       
+END                                                                           
